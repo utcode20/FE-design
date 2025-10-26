@@ -380,7 +380,7 @@ body{
     }
 
     .nav-links{
-        flex-direction: column;
+        flex-direction: row;
         gap: 0.5rem;
     }
 }
@@ -512,5 +512,6 @@ body{
 .footer-bottom p , .footer-section p{
     font-family:'Times New Roman', Times, serif;
 }
+
 
 
