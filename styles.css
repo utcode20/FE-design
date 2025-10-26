@@ -372,7 +372,7 @@ body{
 
 @media(max-width:480px){
     .hero-content h2{
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     .container{
@@ -512,6 +512,7 @@ body{
 .footer-bottom p , .footer-section p{
     font-family:'Times New Roman', Times, serif;
 }
+
 
 
 
